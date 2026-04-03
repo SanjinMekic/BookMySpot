@@ -1,6 +1,6 @@
 # BookMySpot
 
-**BookMySpot** je full-stack web aplikacija za pregled i rezervaciju uslužnih objekata kao što su saloni, smještaj, ordinacije i rent-a-car i slično. Projekat uključuje korisnički dio i administratorski panel za upravljanje sadržajem, korisnicima i rezervacijama.
+**BookMySpot** je full-stack web aplikacija za pregled i rezervaciju uslužnih objekata kao što su saloni, smještaj, ordinacije i rent-a-car i slično. Projekat uključuje korisnički dio, te administratorski i menadžerski panel za upravljanje sadržajem, korisnicima i rezervacijama.
 
 ---
 
@@ -21,7 +21,7 @@
 - Favoriti i recenzije  
 - Pitanja i odgovori  
 
-### Admin panel
+### Administratorski i menadžerski panel
 - Upravljanje kategorijama i uslužnim objektima  
 - Upravljanje korisničkim računima  
 - Uređivanje sadržaja sekcije “O nama”  
