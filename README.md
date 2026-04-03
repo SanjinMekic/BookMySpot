@@ -44,7 +44,7 @@ dotnet ef database update
 dotnet run
 ```
 
-### Backend
+### Frontend
 ```bash
 npm install
 npm start
